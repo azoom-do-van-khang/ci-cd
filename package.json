@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/azoom-do-van-khang/ci-cd/issues"
   },
-  "homepage": "https://github.com/azoom-do-van-khang/ci-cd#readme"
+  "homepage": "https://github.com/azoom-do-van-khang/ci-cd#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
